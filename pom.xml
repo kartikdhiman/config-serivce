@@ -51,7 +51,6 @@
 						<env>
 							<BP_JVM_VERSION>21</BP_JVM_VERSION>
 						</env>
-						<name>${project.name}</name>
 					</image>
 				</configuration>
 			</plugin>
